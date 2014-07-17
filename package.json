@@ -1,0 +1,21 @@
+{
+  "name"          : "invasion-americas",
+  "description"   : "Interactive map of the invasion of the Americas",
+  "url"           : "http://github.com/gmaclennan/invasion-americas",
+  "author"        : "Gregor MacLennan <gmaclennan@digital-democracy.org>",
+  "dependencies"  : {
+    "d3"          : "~3.4.5"
+  },
+  "devDependencies" : {
+    "mapshaper"     : "~0.1.19",
+    "js-beautify"   : "~1.5.1",
+    "topojson"      : "~1.6.14",
+    "esri-dump" : "gmaclennan/esri-dump#multipolygon2"
+  },
+  "version"       : "0.0.0",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmaclennan/invasion-americas.git"
+  }
+}
